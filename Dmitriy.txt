@@ -1,2 +1,10 @@
 Hi word!
+<<<<<<< HEAD
  :)
+=======
+
+Hi Mars!
+
+Hands off!
+
+>>>>>>> origin/master
