@@ -1,10 +1,16 @@
+Hi world!
 Hi word!
 <<<<<<< HEAD
+<<<<<<< HEAD
  :)
-=======
 
+CVB's edition
+>>>>>>> origin
 Hi Mars!
-
 Hands off!
+<<<<<<< HEAD
 
 >>>>>>> origin/master
+
+Hi Mars!
+>>>>>>> origin
